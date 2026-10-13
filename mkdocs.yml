@@ -5,14 +5,34 @@ repo_name: tech_catch_ups
 
 theme:
   name: material
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    
   features:
-    - navigation.instant
+    - navigation.tabs
     - navigation.sections
     - navigation.top
+    - navigation.indexes
+    - search.suggest
     - search.highlight
-    - search.share
     - content.code.copy
 
+    
 plugins:
   - search
   - awesome-nav
