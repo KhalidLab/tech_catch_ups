@@ -1,5 +1,7 @@
 # SBCB Tech Catch-ups
 
+Hosted at: https://khalidlab.github.io/tech_catch_ups/
+
 A lightweight, searchable knowledge base for our weekly informal software/computing catch-ups. The site is built with **Material for MkDocs** and deployed to **GitHub Pages** with GitHub Actions.
 
 ## What goes here?
