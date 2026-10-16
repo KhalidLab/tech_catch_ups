@@ -9,6 +9,7 @@ tags:
 ## Resource watched
 
 **Title:** [Python cli tested with pytest](https://www.youtube.com/watch?v=sv46294LoP8)
+
 **Type:** Video
 
 ## Summary and takeaways
@@ -51,7 +52,7 @@ Minimal example:
 import sys
 import argparse
 
-def main (argv: Optional[Sequence[str]] = None) -> int:
+def main(argv: Optional[Sequence[str]] = None) -> int:
   parser = argparse.ArgumentParser()
   parser.add_argument()
   args = parser.parse_args(argv)
@@ -79,4 +80,4 @@ if __name__ == 'name'
 
 - An example of CLI testing can be found in the [`cookiecutter` project](https://github.com/cookiecutter/cookiecutter/tree/main). For example, here is a link to [`tests_cli.py`](https://github.com/cookiecutter/cookiecutter/blob/main/tests/test_cli.py)
 
-- An example of integration test with `martinize`: https://github.com/marrink-lab/vermouth-martinize/blob/master/vermouth/tests/integration_tests/test_integration.py
+- An example of [integration tests with `martinize`](https://github.com/marrink-lab/vermouth-martinize/blob/master/vermouth/tests/integration_tests/test_integration.py)

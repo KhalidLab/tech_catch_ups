@@ -9,6 +9,7 @@ YYYY-MM-DD-short-topic.md
 ## Meetings
 
 - [9 October 2026 — Getting started with pytest](2026-10-09-intro-pytest.md)
+- [16 October 2026 — Python CLI tested with pytest](2026-10-16-testable-cli.md)
 
 ## Adding the next meeting
 

@@ -9,6 +9,7 @@ tags:
 ## Resource watched
 
 **Title:** [Resource title](https://example.com)
+
 **Type:** Video / talk / demo / article / documentation
 
 ## Summary and takeaways
