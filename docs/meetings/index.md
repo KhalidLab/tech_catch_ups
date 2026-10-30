@@ -10,7 +10,7 @@ YYYY-MM-DD-short-topic.md
 
 - [9 October 2026 — Getting started with pytest](2026-10-09-intro-pytest.md)
 - [16 October 2026 — Python CLI tested with pytest](2026-10-16-testable-cli.md)
-- [30 October 2026 — Introduction to Rust programming language](2026-10-16-intro-rust.md)
+- [30 October 2026 — Introduction to Rust programming language](2026-10-30-intro-rust.md)
 
 ## Adding the next meeting
 
