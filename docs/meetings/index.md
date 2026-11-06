@@ -11,6 +11,7 @@ YYYY-MM-DD-short-topic.md
 - [9 October 2026 — Getting started with pytest](2026-10-09-intro-pytest.md)
 - [16 October 2026 — Python CLI tested with pytest](2026-10-16-testable-cli.md)
 - [30 October 2026 — Introduction to Rust programming language](2026-10-30-intro-rust.md)
+- [6 November 2026 - Attrs, Pydantic, or Python Data Classes?](2026-11-06-data-classes.md)
 
 ## Adding the next meeting
 
